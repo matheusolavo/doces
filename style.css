@@ -5,14 +5,14 @@
     padding: 30px;
     background-color: white;
     width: 80%;
-    margin: 50px auto; /* Corrigido: centralizando o cardápio */
+    margin: 50px auto; 
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 
 /* Categorias */
 .categoria {
-    margin: 20px 0; /* Corrigido: margens uniformes entre as categorias */
+    margin: 20px 0; 
 }
 
 .categoria h3 {
@@ -31,8 +31,8 @@
     padding: 15px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 100%; /* Corrigido: garantindo que o item ocupe a largura inteira */
-    margin-bottom: 20px; /* Corrigido: margens uniformes entre os itens */
+    width: 100%; 
+    margin-bottom: 20px; 
     text-align: left;
 }
 
